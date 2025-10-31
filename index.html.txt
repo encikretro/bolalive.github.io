@@ -1,0 +1,2 @@
+<title>TV Bola Website</title>
+<a href="arenabola1"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Astro_Arena_Bola_1_%282024%29.png" alt="Astro Arena Bola" style="width:42px;height:42px;"></a>
